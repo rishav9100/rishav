@@ -5,5 +5,7 @@ welcome to rishav Kitchen
 kheer 
 Pasta
 Chicken Fry
+Beens
+Pizza
 
 Thank You
